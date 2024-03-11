@@ -23,9 +23,9 @@ Recall that an «empty cards» is a card that should be deleted by
 «check empty card».
 """
 
-from PyQt5.QtCore import *
-from PyQt5.QtGui import *
-from PyQt5.QtWidgets import *
+from PyQt6.QtCore import *
+from PyQt6.QtGui import *
+from PyQt6.QtWidgets import *
 
 import anki.notes
 from anki.hooks import addHook
